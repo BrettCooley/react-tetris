@@ -239,4 +239,3 @@ npm run build
 在build文件夹下生成结果。
 
 this is a test edit of the flatris redme by Brett
-
